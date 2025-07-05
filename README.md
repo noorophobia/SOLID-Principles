@@ -25,3 +25,8 @@ This repository provides clean and understandable examples for each of the **SOL
 5. **D - Dependency Inversion Principle (DIP)**  
    _High-level modules should not depend on low-level modules. Both should depend on abstractions._
 
+##  Youtube Tutorial
+
+Check out the youtube tutorial:  
+ [Go to Video](https://www.youtube.com/watch?v=rkgL9Msxa1k) 
+ if you have any suggestions on the video or any other topic you'd like to see : drop an email at noorf3531@gmail.com
